@@ -31,6 +31,9 @@
     --animate-delay: 0.9s;
 }
 
+
+
+
 body {
     background-color: var(--cor-light);
     height: 100vh;
@@ -219,4 +222,42 @@ nav ul li:hover {
 
 .footer-shadow-content {
     box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.25);
+}
+
+
+/**/
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+    body {
+    
+    }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+    body {
+        
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+    body {
+      
+    }
+}
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    body {
+       
+    }
+}
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {
+    body {
+        
+    }
 }
